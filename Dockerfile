@@ -1,4 +1,4 @@
-FROM 0702/centos7:latest
+FROM centos:centos7
 MAINTAINER Sander van Vugt <mail@sandervanvugt.nl>
 
 # mandatory K8S labels
